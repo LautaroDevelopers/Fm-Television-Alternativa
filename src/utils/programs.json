@@ -1,0 +1,52 @@
+[
+  {
+    "nombre": "Mañanas Musicales",
+    "descripcion": "Un programa para empezar el día con la mejor música.",
+    "imagen": "https://www.cadena3.com/admin/imagenes/categoria/38can.jpg",
+    "hora": "10:00",
+    "dia": "Lunes",
+    "enlace": "https://www.radioTA.com/mananas-musicales",
+    "conductor": "Carlos Pérez",
+    "operador": "Ana Gómez"
+  },
+  {
+    "nombre": "Noticias al Día",
+    "descripcion": "Las noticias más importantes del día, con análisis y entrevistas.",
+    "imagen": "https://www.cadena3.com/admin/imagenes/categoria/42can.jpg",
+    "hora": "11:00",
+    "dia": "Martes",
+    "enlace": "https://www.radioTA.com/noticias-al-dia",
+    "conductor": "Laura Martínez",
+    "operador": "Jorge Ramírez"
+  },
+  {
+    "nombre": "Cultura y Sociedad",
+    "descripcion": "Exploramos temas culturales y sociales con expertos invitados.",
+    "imagen": "https://www.cadena3.com/admin/imagenes/categoria/36can.jpg",
+    "hora": "12:00",
+    "dia": "Miércoles",
+    "enlace": "https://www.radioTA.com/cultura-y-sociedad",
+    "conductor": "María López",
+    "operador": "Luis Fernández"
+  },
+  {
+    "nombre": "Tardes Deportivas",
+    "descripcion": "Toda la actualidad del mundo del deporte, con entrevistas y reportajes.",
+    "imagen": "https://www.cadena3.com/admin/imagenes/categoria/35can.jpg",
+    "hora": "13:00",
+    "dia": "Jueves",
+    "enlace": "https://www.radioTA.com/tardes-deportivas",
+    "conductor": "Pedro Sánchez",
+    "operador": "Elena Ruiz"
+  },
+  {
+    "nombre": "Viernes de Cine",
+    "descripcion": "Reseñas y noticias del mundo del cine, con invitados especiales.",
+    "imagen": "https://www.cadena3.com/admin/imagenes/categoria/34can.jpg",
+    "hora": "14:00",
+    "dia": "Viernes",
+    "enlace": "https://www.radioTA.com/viernes-de-cine",
+    "conductor": "Sofía Torres",
+    "operador": "Miguel Hernández"
+  }
+]
